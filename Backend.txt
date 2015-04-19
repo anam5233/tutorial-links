@@ -4,3 +4,9 @@
 
 1.http://code.tutsplus.com/tutorials/building-a-social-profile-widget-to-display-your-follower-count--cms-21388?utm_source=Tuts+&utm_medium=website&utm_campaign=relatedtutorials&utm_content=sidebar&WT.mc_id=Tuts+_website_relatedtutorials_sidebar
 2.http://code.tutsplus.com/tutorials/loading-css-into-wordpress-the-right-way--cms-20402
+
+
+======================
+	190415
+======================
+1.http://code.tutsplus.com/tutorials/building-your-startup-with-php-user-settings-profile-images-and-contact-details--cms-23196
