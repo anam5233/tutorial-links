@@ -1,3 +1,9 @@
 http://projects.students3k.com/file-upload-store-download-in-php-source-code-project-phpmysql.html
 
 http://projects.students3k.com/projects/php-mini-projects
+
+http://www.codeproject.com/Questions/386584/File-upload-and-Download-in-Php
+
+http://www.w3programmers.com/category/php/php-mysql-projects/
+
+https://code.tutsplus.com/tutorials/uploading-files-with-ajax--net-21077
