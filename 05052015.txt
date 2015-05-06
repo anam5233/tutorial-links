@@ -7,3 +7,8 @@ http://www.codeproject.com/Questions/386584/File-upload-and-Download-in-Php
 http://www.w3programmers.com/category/php/php-mysql-projects/
 
 https://code.tutsplus.com/tutorials/uploading-files-with-ajax--net-21077
+
+***********
+==================
+http://www.w3programmers.com/author/masud1985/
+http://www.w3programmers.com/file-upload-and-download-with-php/
