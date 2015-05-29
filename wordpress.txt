@@ -7,7 +7,7 @@
 4.http://code.tutsplus.com/tutorials/adding-filter-hooks-to-your-wordpress-theme-framework--cms-21779
 5.http://code.tutsplus.com/tutorials/creating-child-themes-for-your-wordpress-theme-framework--cms-21933
 6.http://code.tutsplus.com/tutorials/adding-filter-hooks-to-your-wordpress-theme-framework--cms-21779
-7.
+7.https://code.tutsplus.com/series/how-theme-frameworks-actually-work--cms-713
 
 
 course
