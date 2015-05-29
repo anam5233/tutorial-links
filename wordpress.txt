@@ -1,0 +1,15 @@
+============================
+			300515
+============================
+1.http://code.tutsplus.com/tutorials/adding-action-hooks-to-your-wordpress-theme-framework--cms-21664
+2.http://code.tutsplus.com/tutorials/creating-the-starting-files-for-your-wordpress-theme-framework--cms-21662
+3.http://code.tutsplus.com/articles/the-beginners-guide-to-wordpress-actions-and-filters--wp-27373
+4.http://code.tutsplus.com/tutorials/adding-filter-hooks-to-your-wordpress-theme-framework--cms-21779
+5.http://code.tutsplus.com/tutorials/creating-child-themes-for-your-wordpress-theme-framework--cms-21933
+6.http://code.tutsplus.com/tutorials/adding-filter-hooks-to-your-wordpress-theme-framework--cms-21779
+7.
+
+
+course
+===========
+1.https://code.tutsplus.com/courses/developing-a-woocommerce-theme?WT.mc_id=Tuts%20_website_suggestedcoursevideo_sidebar&utm_campaign=suggestedcoursevideo&utm_content=sidebar&utm_medium=website&utm_source=Tuts
